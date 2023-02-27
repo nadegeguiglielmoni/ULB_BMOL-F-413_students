@@ -14,6 +14,14 @@ module load gfastats/1.3.6-GCCcore-11.2.0
 gfastats mycobacterium.flye_v29_default.gfa
 ```
 
+[Bandage]()
+```sh
+module load Bandage/0.9.0-GCCcore-11.2.0
+```
+```sh
+Bandage load mycobacterium.flye_v29_default.gfa
+```
+
 ### BUSCO score
 
 [BUSCO](https://busco.ezlab.org/)
